@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.kokansadlive.app",
+        "sha256_cert_fingerprints": ["EC:FC:9E:35:7C:BA:7A:F2:86:F3:1A:6C:62:52:72:F1:58:4D:71:EB:5C:4F:F3:D3:11:10:67:0D:CB:05:6F:02"]
+      }
+    }]
